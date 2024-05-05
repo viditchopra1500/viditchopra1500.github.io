@@ -1,3 +1,3 @@
 # Your blog
 
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+Hii, I am vidit chopra. Currently a SWE@Google. Blogs will contains topics like ML and CS mostly.
